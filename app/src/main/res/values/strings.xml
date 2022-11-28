@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVI Project</string>
+    <string name="generate_number_txt">Generate Number</string>
+</resources>
